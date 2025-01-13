@@ -69,9 +69,9 @@ const default_config = {
           name: "media",
           links: [
             {
-              name: "уп",
-              url: "https://www.pravda.com.ua",
-              icon: "news",
+              name: "discord",
+              url: "https://discord.com/channels/@me",
+              icon: "brand-discord",
               icon_color: palette.green,
             },
             {
