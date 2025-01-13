@@ -118,7 +118,7 @@ const default_config = {
             {
               name: "daily dev",
               url: "https://app.daily.dev/",
-              icon: "brand-dailydev",
+              icon: "circle-triangle",
               icon_color: palette.peach,
             },
             {
