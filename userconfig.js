@@ -176,7 +176,7 @@ const default_config = {
             {
               name: "project IDX",
               url: "https://idx.google.com/",
-              icon: "branch",
+              icon: "brand-microsoft",
               icon_color: palette.red,
             },
             {
