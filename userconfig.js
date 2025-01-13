@@ -168,15 +168,15 @@ const default_config = {
               icon_color: palette.green,
             },
             {
-              name: "hackernews",
-              url: "https://news.ycombinator.com",
+              name: "tweakers",
+              url: "https://tweakers.net/",
               icon: "brand-redhat",
               icon_color: palette.peach,
             },
             {
-              name: "uber engineering",
-              url: "https://www.uber.com/en-GB/blog/london/engineering",
-              icon: "brand-uber",
+              name: "project IDX",
+              url: "https://idx.google.com/",
+              icon: "branch",
               icon_color: palette.red,
             },
             {
