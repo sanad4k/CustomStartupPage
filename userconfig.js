@@ -116,9 +116,9 @@ const default_config = {
               icon_color: palette.green,
             },
             {
-              name: "neptune",
-              url: "https://ui.neptune.ai",
-              icon: "circle-triangle",
+              name: "daily dev",
+              url: "https://app.daily.dev/",
+              icon: "brand-dailydev",
               icon_color: palette.peach,
             },
             {
