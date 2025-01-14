@@ -162,8 +162,8 @@ const default_config = {
           name: "resources",
           links: [
             {
-              name: "dou",
-              url: "https://dou.ua",
+              name: "google",
+              url: "https://www.google.com/",
               icon: "brand-prisma",
               icon_color: palette.green,
             },
