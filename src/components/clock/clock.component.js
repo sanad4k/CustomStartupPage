@@ -36,7 +36,7 @@ class Clock extends Component {
   }
 
   setIconColor() {
-    this.refs.icon.style.color = CONFIG.clock.iconColor;
+    this.refs.icon.style.color = CONFIG.palette.maroon;
   }
 
   setTime() {
