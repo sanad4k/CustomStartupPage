@@ -55,12 +55,6 @@ const default_config = {
               icon: "brand-x",
               icon_color: palette.sky,
             },
-            {
-              name: "discord",
-              url: "https://discord.com/channels/@me",
-              icon: "brand-discord",
-              icon_color: palette.blue,
-            },
           ],
         },
         {
