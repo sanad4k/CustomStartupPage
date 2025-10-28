@@ -1,5 +1,5 @@
 // latte / frappe / macchiato / mocha
-const palette = macchiato;
+const palette = latte;
 
 const default_config = {
   overrideStorage: true,
@@ -107,9 +107,9 @@ const default_config = {
           name: "",
           links: [
             {
-              name: "chatgpt",
-              url: "https://chatgpt.com/",
-              icon: "brand-openai",
+              name: "Gemini",
+              url: "https://gemini.google.com/",
+              icon: "brand-Google",
               icon_color: palette.teal,
             },
             {
