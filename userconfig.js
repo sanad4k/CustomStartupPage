@@ -1,5 +1,5 @@
 // latte / frappe / macchiato / mocha
-const palette = latte;
+const palette = macchiato;
 
 const default_config = {
   overrideStorage: true,
@@ -21,10 +21,10 @@ const default_config = {
               icon_color: palette.blue,
             },
             {
-              name: "classroom",
-              url: "https://classroom.google.com/u/1/",
-              icon: "books",
-              icon_color: palette.green,
+              name: "Calender",
+              url: "https://calendar.google.com/calendar",
+              icon: "ti-calendar",
+              icon_color: palette.yellow,
             },
             {
               name: "docs",
@@ -109,7 +109,7 @@ const default_config = {
             {
               name: "Gemini",
               url: "https://gemini.google.com/",
-              icon: "brand-Google",
+              icon: "file-text-ai",
               icon_color: palette.teal,
             },
             {
@@ -122,6 +122,12 @@ const default_config = {
               name: "monkeytype",
               url: "https://monkeytype.com",
               icon: "keyboard",
+              icon_color: palette.red,
+            },
+            {
+              name: "Drive",
+              url: "https://drive.google.com/",
+              icon: "keyboardbrand-google-drive",
               icon_color: palette.red,
             },
           ]
