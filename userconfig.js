@@ -96,11 +96,12 @@ const default_config = {
               icon_color: palette.red,
             },
             {
-              name: "udemy",
-              url: "https://www.udemy.com/home/my-courses/learning/",
-              icon: "certificate",
-              icon_color: palette.lavender,
+              name: "Drive",
+              url: "https://drive.google.com/",
+              icon: "brand-google-drive",
+              icon_color: palette.red,
             },
+
           ]
         },
         {
@@ -125,11 +126,12 @@ const default_config = {
               icon_color: palette.red,
             },
             {
-              name: "Drive",
-              url: "https://drive.google.com/",
-              icon: "keyboardbrand-google-drive",
-              icon_color: palette.red,
+              name: "Keep",
+              url: "https://keep.google.com/u/0/",
+              icon: "ti-list-check",
+              icon_color: palette.,
             },
+            
           ]
         },
       ],
