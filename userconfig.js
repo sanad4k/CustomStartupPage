@@ -129,7 +129,7 @@ const default_config = {
               name: "Keep",
               url: "https://keep.google.com/u/0/",
               icon: "ti-list-check",
-              icon_color: palette.,
+              icon_color: palette.blue,
             },
             
           ]
