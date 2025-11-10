@@ -23,7 +23,7 @@ const default_config = {
             {
               name: "Calender",
               url: "https://calendar.google.com/calendar",
-              icon: "ti-calendar",
+              icon: "calendar-week",
               icon_color: palette.yellow,
             },
             {
@@ -128,10 +128,10 @@ const default_config = {
             {
               name: "Keep",
               url: "https://keep.google.com/u/0/",
-              icon: "ti-list-check",
+              icon: "note",
               icon_color: palette.blue,
             },
-            
+
           ]
         },
       ],
