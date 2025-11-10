@@ -23,7 +23,7 @@ const default_config = {
             {
               name: "Calender",
               url: "https://calendar.google.com/calendar",
-              icon: "calendar-month",
+              icon: "calendar",
               icon_color: palette.yellow,
             },
             {
