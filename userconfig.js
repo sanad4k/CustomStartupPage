@@ -101,6 +101,12 @@ const default_config = {
               icon: "brand-google-drive",
               icon_color: palette.red,
             },
+              {
+              name: "Keep",
+              url: "https://keep.google.com/u/0/",
+              icon: "note",
+              icon_color: palette.blue,
+            },
 
           ]
         },
@@ -118,19 +124,16 @@ const default_config = {
               url: "https://claude.ai/new",
               icon: "robot",
               icon_color: palette.peach,
+
             },
             {
-              name: "monkeytype",
-              url: "https://monkeytype.com",
-              icon: "keyboard",
-              icon_color: palette.red,
+              name: "Perplexity",
+              url: "https://claude.ai/new",
+              icon: "pencil-search",
+              icon_color: palette.green,
             },
-            {
-              name: "Keep",
-              url: "https://keep.google.com/u/0/",
-              icon: "note",
-              icon_color: palette.blue,
-            },
+
+
 
           ]
         },
